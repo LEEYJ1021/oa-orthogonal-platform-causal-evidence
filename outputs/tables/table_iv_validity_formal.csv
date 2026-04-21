@@ -1,0 +1,10 @@
+Test,Result,Role,Pass,Paper_Section
+Pre-trend (standard),⚠ FAIL  p=0.002,Exclusion,FALSE,Appendix (limitation)
+Pre-trend (field×yr control),⚠ FAIL  p<0.001,Exclusion,FALSE,Appendix (limitation)
+GP Exposure-β correlation,⚠ r=0.504  (>0.30 limit),Exclusion,FALSE,Appendix (limitation)
+LOFO stability,✓ STABLE  std=0.0015,Robustness,TRUE,Appendix
+Residualized IV sign,✓ Consistent sign,Consistency,TRUE,Appendix
+Falsification (conditioned),⚠ p=0.094  (marginal fail),Exclusion,FALSE,Appendix (limitation)
+Wu-Hausman (endogeneity),✓ p=0.850  (no endogeneity),Endogeneity,TRUE,Appendix
+First-stage F,✓ F=1030   (strong),Relevance,TRUE,Appendix
+Conley CI_lower=0 threshold,⚠ δ=0.005  (fragile),Exclusion,FALSE,Appendix (limitation)

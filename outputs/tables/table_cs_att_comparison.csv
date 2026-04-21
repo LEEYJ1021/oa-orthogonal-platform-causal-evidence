@@ -1,0 +1,4 @@
+Version,Method,ATT,SE
+v29 OLS DiD fallback,n/a (재실행 필요),NA,NA
+v30 CS/TWFE aggregated,"TWFE fallback (aggregated, cohort 50%)",0.017,0.0496
+PRIMARY (Stacked DiD),Stacked DiD,0.0905,0.0148

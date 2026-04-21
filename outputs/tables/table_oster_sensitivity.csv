@@ -1,0 +1,8 @@
+R2max_mult,R2max,delta_star,robust
+1.05,0.1639,0.136,⚠ fragile
+1.1,0.1717,0.272,⚠ fragile
+1.2,0.1873,0.545,moderate
+1.3,0.2029,0.817,moderate
+1.37,0.2138,1.008,✓ robust
+1.5,0.2341,1.362,✓ robust
+2,0.3121,2.725,✓ robust

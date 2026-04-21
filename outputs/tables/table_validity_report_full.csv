@@ -1,0 +1,21 @@
+Category,Check,Status,Light,In_Paper
+★ Primary ID,Stacked DiD ATT significance,"✓ ATT=0.0905, t≈6.1",green,Main text
+★ Primary ID,Field-cluster SE,"✓ Field-cluster (N=1,414)",green,Main text
+★ Primary ID,Multi-way cluster robustness,✓ β=0.0907 across 3 schemes,green,Appendix
+★ Primary ID,HonestDiD robust CI,✓ ATT=NA at M=0.12,green,Appendix
+Pre-trend,Stacked DiD ±3 individual,✓ |t| < 1.96 for all,green,Main text
+Pre-trend,Stacked DiD ±5 joint F-test,✓ joint χ² p=0.3063,green,Main text
+Pre-trend,SA t=-2 individual,⚠ p=0.036 (marginal),orange,Main text (footnote)
+Pre-trend,SA t=-2 joint context,✓ Individually marginal → jointly OK,green,Main text
+IV (Appendix),Bartik pre-trend,⚠ FAIL p=0.002,red,Appendix
+IV (Appendix),GP Exposure-β correlation,⚠ r=0.504 > 0.30,red,Appendix
+IV (Appendix),LOFO stability,✓ std=0.0015,green,Appendix
+IV (Appendix),Falsification,⚠ p=0.094,red,Appendix
+IV (Appendix),Wu-Hausman (endogeneity),✓ p=0.850 (no endo.),green,Appendix
+Robustness,Oster δ* (1.30×),△ δ*=NA (moderate),orange,Appendix
+Robustness,GRF ATE (FE resid),✓ ATE=NA,green,Appendix
+Robustness,Specification sign consistency,✓ Positive in all specs,green,Main text
+Robustness,DiD re-spec (exogenous),✓ Respecified exogenous DiD (post_policy=year≥2013),green,Appendix
+Robustness,FE permutation stability,✓ β=0.059–0.099 stable,green,Appendix
+Theory,Level OA effect (β > 0),✓ β=+0.059~+0.14***,green,Main text
+Theory,Negative DiD explanation,✓ Platform convergence theory,green,Theory section

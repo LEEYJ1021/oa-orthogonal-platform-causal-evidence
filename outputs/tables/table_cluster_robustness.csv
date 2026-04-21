@@ -1,0 +1,4 @@
+Cluster,ATT,SE,t_stat,p_value,CI_lo,CI_hi,Stars
+Field cluster,0.0907,0.0281,3.232,0.0013,0.0357,0.1458,**
+Research cluster (HDBSCAN),0.0907,0.0316,2.8742,0.0083,0.0256,0.1559,**
+Two-way (Field × Year),0.0907,0.0234,3.8695,7e-4,0.0424,0.139,***
