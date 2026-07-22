@@ -3,7 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](python/)
 [![R](https://img.shields.io/badge/R-4.3%2B-blue)](r/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.placeholder.svg)](https://doi.org/)
 [![Replication](https://img.shields.io/badge/Replication-Full-brightgreen)]()
 [![Data](https://img.shields.io/badge/Data-Lens.org-orange)](https://lens.org)
 [![Pre--registration](https://img.shields.io/badge/Pre--trend%20test-p%3D0.850-success)]()
